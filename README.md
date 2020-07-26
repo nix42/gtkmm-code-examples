@@ -1,6 +1,8 @@
 # Gtkmm code examples (Gtk interface for C++)
 
-## Examples
+- Collection of gtkmm code samples written in C++ 
+
+## Examples in repository
 
 - Basic window example
 - Glade example
