@@ -1,0 +1,26 @@
+
+window {
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+label {
+    color: #57dbcb;
+}
+
+#main-box * {
+    margin: 10px;
+}
+
+#top-box {
+    margin: 0px;
+}
+
+#left-box, #right-box, #bottom-box {
+    border: solid;
+    border-width: 2px;
+    border-color: #532777;
+}
+
+
