@@ -1,0 +1,30 @@
+{
+	"events" : 
+	[
+		{
+			"date" : "10/09/2020",
+			"desc" : "Group work",
+			"name" : "12pm Meeting"
+		},
+		{
+			"date" : "11/09/2020",
+			"desc" : "Algorithms and data structures",
+			"name" : "9am Lecture"
+		},
+		{
+			"date" : "12/09/2020",
+			"desc" : "Computer architectures",
+			"name" : "11am Lecture"
+		},
+		{
+			"date" : "13/09/2020",
+			"desc" : "Personal Tutor",
+			"name" : "PT meeting"
+		},
+		{
+			"date" : "14/09/2020",
+			"desc" : "Calculus",
+			"name" : "12pm-4pm revision"
+		}
+	]
+}
