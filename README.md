@@ -4,13 +4,13 @@
 
 ## Examples in repository
 
-- Basic window example
-- Glade example
-- Buttons example
-- Container example
-- Grid example
-- Dialog example
-- Notebook example
-- Treeview example
-- CSS example
+- [window example](https://github.com/nix42/gtkmm-code-examples/tree/master/src/window-example) - How to setup a basic window
+- [Glade example](https://github.com/nix42/gtkmm-code-examples/tree/master/src/glade-example) - How to use a glade file for the UI
+- [Buttons example](https://github.com/nix42/gtkmm-code-examples/tree/master/src/buttons-example) - How to setup and use buttons
+- [Container example](https://github.com/nix42/gtkmm-code-examples/tree/master/src/container-example) - How to use different types of containers
+- [Grid example](https://github.com/nix42/gtkmm-code-examples/tree/master/src/grid-example) - How to display and populate a grid
+- [Dialog example](https://github.com/nix42/gtkmm-code-examples/tree/master/src/dialog-example) - How to open a dialog via button press and receive data from it
+- [Notebook example](https://github.com/nix42/gtkmm-code-examples/tree/master/src/notebook-example) - How to setup a notebook inside a window with tabbed windows
+- [Treeview example](https://github.com/nix42/gtkmm-code-examples/tree/master/src/treeview-example) - How to setup a Treeview model with a list store
+- [CSS example](https://github.com/nix42/gtkmm-code-examples/tree/master/src/css-example) - How to use a css file with your gtkmm application
 
