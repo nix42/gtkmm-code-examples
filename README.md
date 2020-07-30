@@ -17,6 +17,6 @@
 
 ## Compiling the code
 ### With JSON
-- g++ main.cpp -insert filename-.cpp -o main `pkg-config gtkmm-3.0 --cflags --libs` -ljsoncpp
+- g++ main.cpp -insert filename-.cpp -o main `pkg-config gtkmm-3.0 --cflags --libs' -ljsoncpp
 ### Without JSON
 - g++ main.cpp -insert filename-.cpp -o main `pkg-config gtkmm-3.0 --cflags --libs'
